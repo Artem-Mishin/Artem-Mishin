@@ -3,7 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PlantUML   5 mins          █████████████████████████   100.00 %
+PlantUML   5 mins          ██████████████░░░░░░░░░░░   55.68 %
+Python     4 mins          ███████████░░░░░░░░░░░░░░   44.32 %
 ```
 
 <!--END_SECTION:waka-->
