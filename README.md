@@ -1,4 +1,4 @@
-# Nice to see you.
+# Nice to see you
 <p>Welcome to my page! I'm Artem, Junior Data Analyst from <b>Moscow, Russia</b></p>
 
 ## Things I code with
