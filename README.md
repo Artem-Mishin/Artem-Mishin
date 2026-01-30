@@ -1,4 +1,10 @@
-## Hi there 👋
+# Nice to see you.
+<p>Welcome to my page! I'm Artem, Junior Data Analyst from <b>Moscow, Russia</b></p>
+
+## Things I code with
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+## Some statistic
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@Artem_Mishin/3ae5143f-238a-418f-87e3-262fe50a7272.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@Artem_Mishin/9905c760-a3da-4e49-8c71-69d85fb39737.svg"></embed></figure>
