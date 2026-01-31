@@ -6,6 +6,11 @@
 
 ## Some statistic
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@Artem_Mishin/3ae5143f-238a-418f-87e3-262fe50a7272.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@Artem_Mishin/9905c760-a3da-4e49-8c71-69d85fb39737.svg"></embed></figure>
+
+```txt
+Python     5 mins          ██████████░░░░░░░░░░░░░░░   39.42 %
+PlantUML   5 mins          █████████▒░░░░░░░░░░░░░░░   37.29 %
+Other      3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+```
+
 <!--END_SECTION:waka-->
